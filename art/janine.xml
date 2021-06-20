@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="janine.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="janineidle0000" x="0" y="0" width="294" height="455" frameX="-55" frameY="-4" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0001" x="294" y="0" width="295" height="444" frameX="-55" frameY="-11" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0002" x="589" y="0" width="294" height="447" frameX="-56" frameY="-9" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0003" x="883" y="0" width="293" height="457" frameX="-56" frameY="0" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0004" x="1176" y="0" width="294" height="454" frameX="-55" frameY="-4" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0005" x="1470" y="0" width="295" height="453" frameX="-55" frameY="-6" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0006" x="0" y="457" width="298" height="450" frameX="-54" frameY="-9" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0007" x="0" y="457" width="298" height="450" frameX="-54" frameY="-9" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0008" x="298" y="457" width="300" height="447" frameX="-54" frameY="-12" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0009" x="598" y="457" width="301" height="446" frameX="-54" frameY="-13" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0010" x="899" y="457" width="301" height="446" frameX="-54" frameY="-13" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidle0011" x="1200" y="457" width="302" height="445" frameX="-54" frameY="-14" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janinedown0001" x="1502" y="457" width="302" height="444" frameX="-54" frameY="-15" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janinedown0002" x="1502" y="457" width="302" height="444" frameX="-54" frameY="-15" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janinedown0003" x="0" y="907" width="294" height="443" frameX="-59" frameY="-16" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineup0001" x="294" y="907" width="294" height="447" frameX="-59" frameY="-12" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineup0002" x="588" y="907" width="293" height="451" frameX="-60" frameY="-8" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineup0003" x="881" y="907" width="308" height="411" frameX="-36" frameY="-48" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineright0001" x="1189" y="907" width="310" height="402" frameX="-37" frameY="-57" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineright0002" x="1499" y="907" width="311" height="397" frameX="-39" frameY="-62" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineright0003" x="0" y="1358" width="302" height="420" frameX="-70" frameY="-39" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineleft0001" x="302" y="1358" width="302" height="421" frameX="-75" frameY="-38" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineleft0002" x="604" y="1358" width="302" height="420" frameX="-83" frameY="-39" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineleft0003" x="906" y="1358" width="301" height="433" frameX="-16" frameY="-26" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidk0001" x="1207" y="1358" width="308" height="434" frameX="-5" frameY="-25" frameWidth="385" frameHeight="459"/>
+	<SubTexture name="janineidk0002" x="1515" y="1358" width="310" height="434" frameX="0" frameY="-25" frameWidth="385" frameHeight="459"/>
+</TextureAtlas>
